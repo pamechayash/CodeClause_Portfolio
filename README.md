@@ -1,5 +1,2 @@
+# CodeClause_Portfolio_Website
 
-live Portfolio   -    https://pamechayash.github.io/PortFolio/
-
-
-# CodeClause_Portfolio
